@@ -37,10 +37,6 @@ namespace MWTest
         public static void Save<T>(string name, T saving)
         {
             string path = PathStart + name;
-
-            if (!File.Exists(path))
-                File.Create(path);
-
             string text = JsonConvert.SerializeObject(saving);
 
             try
