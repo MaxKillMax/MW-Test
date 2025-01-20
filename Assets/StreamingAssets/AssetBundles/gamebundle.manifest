@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 2293798086
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: debcef8de7b95049b59c4417f1deb546
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 45ddbdffe00a1bd79eec2a3a98f37f24
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Button.png
+Dependencies: []
