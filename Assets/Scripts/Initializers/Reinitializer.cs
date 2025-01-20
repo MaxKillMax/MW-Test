@@ -1,4 +1,6 @@
-﻿namespace MWTest.Initializers
+﻿using System.Collections;
+
+namespace MWTest.Initializers
 {
     public sealed class Reinitializer : Initializer
     {

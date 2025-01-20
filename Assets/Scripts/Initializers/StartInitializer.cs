@@ -1,3 +1,7 @@
+using System.Collections;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
 namespace MWTest.Initializers
 {
     public sealed class StartInitializer : Initializer

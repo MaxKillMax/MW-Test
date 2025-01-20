@@ -1,4 +1,11 @@
-﻿namespace MWTest.Initializers
+﻿using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using MWTest.Datas;
+using Newtonsoft.Json;
+using UnityEngine;
+
+namespace MWTest.Initializers
 {
     public abstract class Initializer : MonoBehaviour
     {
